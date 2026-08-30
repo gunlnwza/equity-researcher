@@ -1,0 +1,13 @@
+# analysis:
+
+#   valuation:
+#     methods:
+#       - dcf
+#       - multiples
+
+#   forecast:
+#     methods:
+#       - revenue_forecast
+#       - margin_forecast
+
+analysis: {}

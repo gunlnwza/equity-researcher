@@ -1,0 +1,35 @@
+questions:
+
+  business_model:
+    prompt: |
+      How does the company make money?
+
+  competition:
+    prompt: |
+      Who are the company's major competitors
+      and what determines competitive advantage?
+
+  latest_earnings:
+    prompt: |
+      What happened in the latest earnings report?
+
+  business_drivers:
+    prompt: |
+      What are the major drivers of the business?
+
+  leading_indicators:
+    prompt: |
+      What indicators provide information about
+      future business performance?
+
+  market_expectation:
+    prompt: |
+      What does the market currently expect?
+
+  valuation:
+    prompt: |
+      How is the company currently valued?
+
+  catalysts_risks:
+    prompt: |
+      What are the major catalysts and risks?
