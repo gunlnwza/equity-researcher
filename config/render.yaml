@@ -1,4 +1,0 @@
-render:
-  format: latex
-  template: equity_report
-  compile: pdf

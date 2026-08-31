@@ -1,0 +1,8 @@
+business_model:
+  prompt: |
+    How does the company make money?
+
+competition:
+  prompt: |
+    Who are the company's major competitors
+    and what determines competitive advantage?
